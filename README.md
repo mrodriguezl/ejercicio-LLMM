@@ -18,6 +18,13 @@ Hola, este es el texto que tengo que poner en el ejercicio y como no se qué pon
   
   *subdivision3. (si, no se que poner).
   
+  ###Tabla
+  
+  Tabla1|Tabla2
+  ------|------
+  Contenido para tabla1|Contenido para tabla2
+  
+  
   ![Imagen tux](https://github.com/mrodriguezl/ejercicio-LLMM/blob/master/kisspng-tux-arch-linux-linux-distribution-ubuntu-billing-module-update-failed-3975-issues-is-5bef9cdc050ac2.9214488315424299160207.jpg)
   
   
