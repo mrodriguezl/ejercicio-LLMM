@@ -7,11 +7,18 @@ Hola, este es el texto que tengo que poner en el ejercicio y como no se qué pon
 ##Lista de cosas que el ejercicio me dice que tengo que hacer
 
 *Poner una cabecera.
+
 *Poner un texto.
+
 *Poner una lista de cosas. Ahora voy a subdividir esto para probarlo.
+
   *Subdivision1.
-  +Subdivision2.
+  
+  *Subdivision2.
+  
   *subdivision3. (si, no se que poner).
+  
+  ![Imagen tux](/images/tux.png)
   
   
   
