@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+	<el señor de los anillos>
+		<autor> J.R.R Tolkien </autor>
+		<genero> Fantástica </genero>
+		<publicacion> 29/06/1994 </publicacion>
+	</el señor de los anillos>
+</libros>
