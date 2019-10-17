@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<h1> Your First HTML Page</h1>
+
+<p>&lt;html&gt;</p>
+<p>&lt;head&gt;</p>
+<p>&lt;tittle&gt;Hello world!&lt;/tittle&gt;</p>
+<p>&lt;/head&gt;</p>
+<p>&lt;body&gt;</p>
+			<pre>&lt;h1&gt;Hello world!&lt;/h1&gt;</pre>
+&lt;/body&gt;
+&lt;/html&gt;
