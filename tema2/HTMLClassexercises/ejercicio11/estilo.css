@@ -1,0 +1,15 @@
+<style>
+
+background-color:grey;	
+	
+h1 {margin: 12px; padding: 20; color: green;}
+
+
+#p1 {margin: 0px; padding: 50px; border: solid; color: red; background-color: grey;}
+#p2 {margin: 30px; padding: 0px; border: solid; color: yellow; background-color: blue;}
+#p3{margin: 50px; padding: 30px; border: solid; color: white; background-color: black;}
+#p4 {margin: 30px; padding: 50px; border: solid; color: green; background-color: red;}
+
+
+</style>
+
