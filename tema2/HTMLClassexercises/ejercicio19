@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<html>
+<p><a href="https://www.w3schools.com/html/default.asp" target="cuadro">HTML<a>|<a href="https://www.w3schools.com/css/default.asp" target="cuadro">CSS<a>|<a href="https://www.w3schools.com/sql/default.asp" target="cuadro">SQL<a>|<a href="https://www.w3schools.com/python/default.asp" target="cuadro">PYTHON<a>
+<iframe src="https://uniwebsidad.com/libros/xhtml" name="cuadro" border=1px height="500" width="90%"></iframe>
+</html>
