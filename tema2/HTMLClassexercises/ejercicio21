@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Rellena tu CV</h2>
+<p>Datos personales</p>
+
+Provincia
+<form action="/action_page.php">
+  <select name="provincias">
+    <option value="Huelva">Huelva</option>
+    <option value="Sevilla">Sevilla</option>
+    <option value="Cádiz">Cádiz</option>
+    <option value="Córdoba">Córdoba</option>
+  </select>
+  <br><br>
+  Fecha de nacimiento
+  <br>
+  <input type="text" name="Fecha" value="">de
+  <select name="meses">
+    <option value="Enero">Enero</option>
+    <option value="Febrero">Febrero</option>
+    <option value="Marzo">Marzo</option>
+    <option value="Abril">Abril</option>
+  </select>
+  de<input type="text" name="Año" value="">
+  <br><br>
+  Temas de interés
+  <br><br>	
+  <select name="t_int">
+    <option value="Admon">Administración de base de datos</option>
+    <option value="Analisis">Análisis de programación</option>
+    <option value="Arq">Arquitectura</option>
+    <option value="Cal">Calidad</option>
+    <option value="ECBI">ERP, CRM, Business Intelligence</option>
+  </select>
+  <br><br>
+    <input type="submit" value="Guardar cambios">
+  <input type="reset" value="Borrar datos introducidos">
+</form>
+</body>
+</html>
