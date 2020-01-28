@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Rellena tu CV</h2>
+
+<form action="/action_page.php">
+  Nombre:<br>
+  <input type="text" name="Nombre" value="">
+  <br>
+  Apellido:<br>
+  <input type="text" name="Apellido" value="">
+  <br>
+  Contraseña:<br>
+  <input type="text" name="Contraseña" value="">
+  <br>
+  DNI:<br>
+  <input type="text" name="DNI" value="">
+  <br>
+  Sexo
+  <br>
+  <input type="checkbox" name="vehicle1" value="Bike">Hombre
+  <br>
+  <input type="checkbox" name="vehicle1" value="Bike">Mujer
+  <br>
+  Incluir mi foto: <input type="file" name="myFile">
+  <br><br>
+  <input type="checkbox" name="vehicle1" value="Bike">Suscribirme al boletín de novedades
+  <br><br>
+  <input type="submit" value="Guardar cambios">
+  <input type="reset" value="Borrar datos introducidos">
+</form> 
